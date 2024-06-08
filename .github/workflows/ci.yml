@@ -21,7 +21,7 @@ jobs:
       - name: Set environment variables
         run: mv .env.example .env
       - name: Install dependencies
-        run: yarn install
+        run: yarn install --frozen-lockfile
       - name: Build application
         run: yarn build
       - name: Run tests
