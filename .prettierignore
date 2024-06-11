@@ -1,1 +1,5 @@
 *.hbs
+
+# Ignore artifacts:
+build
+coverage
