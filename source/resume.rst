@@ -1,6 +1,6 @@
     .. _resume:
 
-    My Name
+    Resume
     =======
 
     Contact Information

@@ -12,7 +12,9 @@ documentation for details.
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents:
 
-resume
+   Resume
+
+.. autoclass:: Resume
